@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Точка входа Spring Boot.
- * Содержит только main. Вся конфигурация вынесена в отдельные классы.
  */
 @SpringBootApplication
 public class MessengerAggregatorApplication {
